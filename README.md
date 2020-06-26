@@ -1,1 +1,1 @@
-# AI-for-Good-Curriculum
+# AI for Good Curriculum
